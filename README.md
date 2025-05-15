@@ -17,14 +17,7 @@ A simple static website that is automatically deployed to **GitHub Pages** using
 ---
 
 ## 📁 Project Structure
-gh-pages-demo/
-├── src/
-│ ├── index.html # Main HTML file
-│ └── style.css # Stylesheet
-├── .github/
-│ └── workflows/
-│ └── deploy.yml # GitHub Actions workflow for deployment
-└── README.md # This file
+<pre> ``` gh-pages-demo/ ├── src/ │ ├── index.html # Main HTML file │ └── style.css # Stylesheet ├── .github/ │ └── workflows/ │ └── deploy.yml # GitHub Actions workflow for deployment └── README.md # This file ``` </pre>
 
 ## 🛠️ Deployment Automation
 
